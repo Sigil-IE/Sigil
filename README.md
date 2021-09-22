@@ -1,4 +1,5 @@
-# Sigil: a shared directory of mods for Infinity Engine games.
+# [WIP] Sigil: a shared directory of mods for Infinity Engine games.
+[Background information](https://github.com/Sigil-IE/Sigil/wiki#background-information) - [Plans](https://github.com/Sigil-IE/Sigil/wiki#plans) - [Methodology](https://github.com/Sigil-IE/Sigil/wiki#methodology) - [F.A.Q.](https://github.com/Sigil-IE/Sigil/wiki#faq)
 
 [ A New Player’s Guide to Installing and Playing Mods](https://www.gibberlings3.net/forums/topic/33164-a-new-player%E2%80%99s-guide-to-installing-and-playing-mods/)
 
