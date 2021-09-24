@@ -1,21 +1,33 @@
 # [WIP] Sigil: a shared directory of mods for Infinity Engine games.
 [Background information](https://github.com/Sigil-IE/Sigil/wiki#background-information) - [Plans](https://github.com/Sigil-IE/Sigil/wiki#plans) - [Methodology](https://github.com/Sigil-IE/Sigil/wiki#methodology) - [F.A.Q.](https://github.com/Sigil-IE/Sigil/wiki#faq)
 
-[ A New Player’s Guide to Installing and Playing Mods](https://www.gibberlings3.net/forums/topic/33164-a-new-player%E2%80%99s-guide-to-installing-and-playing-mods/)
+# Read me
 
+## Player
+### [A New Player’s Guide to Installing and Playing Mods](https://www.gibberlings3.net/forums/topic/33164-a-new-player%E2%80%99s-guide-to-installing-and-playing-mods/)
+#### Steam or GOG users that want to mod anything that includes Siege of Dragonspear must first run [DLC Merger](https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game).
+
+## Collaborator or contributor
+### Check [projects](https://github.com/Sigil-IE/Sigil/projects) for the latest status and any issues that are marked as help wanted.
+### Adding a new mod
+Check that the mod link is alive and match the template below, omitting alternative download locations or forums or sites as needed. Underscores are purely for ease of selection, Title Case is prescriptive. Write a one to two sentence description yourself if the one provided by the mod author is too long. The description should be light on adjectives and heavy on quantifiers. Place the mod in an appropriate game and category (may add to multiple, but try to for as few as possible). The category may be carried over from BWS if in doubt.
+ 
+```markdown
+* [Mod_Name](main_direct_download_link) [(Short_Name_For_Alternative_Download_Location)](alternative_direct_download link) by **Author_Name** *Description_of_the_mod* [Forum](link_to_the_mod's_forum_page) [Site](link_to_the_page_for_the_mod) `technical_information_such_as_EET_compatibility`
+```
 
 # Baldur's Gate I Enhanced Edition and Siege of Dragonspear
 ## Tools
-* [Alweth's Easy Portrait Grabber Tool](https://github.com/abrahamwl/portrait-grabber/releases/tag/v0.4) by **Alweth** *Grabs any image and formats it into a portrait* [Forum](https://forums.beamdog.com/discussion/17596/alweths-easy-portrait-grabber-tool) 
+* [Alweth's Easy Portrait Grabber Tool](https://github.com/abrahamwl/portrait-grabber/releases/) by **Alweth** *Grabs any image and formats it into a portrait* [Forum](https://forums.beamdog.com/discussion/17596/alweths-easy-portrait-grabber-tool) 
 ## Big Mods
 ## NPCs
-* [Ascalon's Breagar](http://lynxlynx.info/ie/modhub.php?Gitjas/ACBre&pkg=zip&pre) by **Ascalon, WhiteAgnus, Jastey** *Dwarven Smith companion that may be taken through the entire trilogy* [Forum](https://www.baldurs-gate.de/index.php?threads/ascalons-breagar.44520/) `EET`
+* [Ascalon's Breagar](http://lynxlynx.info/ie/modhub.php?Gitjas/ACBre&pkg=zip&pre) by **Ascalon, WhiteAgnus, Jastey** *Dwarven Smith companion that may be taken through the entire trilogy* [Forum](https://www.baldurs-gate.de/index.php?threads/ascalons-breagar.44520/) [Site](https://github.com/Gitjas/ACBre) `EET`
 * [Aura NPC](https://github.com/ArtemiusI/Aura_BG1/archive/master.zip) by **ArtemiusI** *gnome thief Artificer that may be taken through BGEE and SoD* [Forum](https://forums.beamdog.com/discussion/65891/v1-3-aura-a-gnome-artificer-npc-for-bg-ee-sod/p1)(https://artisans-corner.com/aura-npc/) `EET`
 ## NPC extensions
 * [Ajantis BG1 Expansion](https://lynxlynx.info/ie/modhub.php?Gibberlings3/Ajantis_BG1_Expansion&pre&pkg=zip)[G3](https://www.gibberlings3.net/files/file/996-ajantis-bg-expansion/?do=download&r=4955&confirm=1&t=1&csrfKey=c22a99cfe596b49a35b8eb6946194ef7) by **Jastey** *Either adds or expands (if BG1NPC project is also installed) Ajantis' friendship and romance tracks.* [Forum](https://www.gibberlings3.net/forums/forum/199-ajantis/) [Site](https://www.gibberlings3.net/mods/npcs/ajantis/) `EET`
 ## Quests
 * [Aerie in BG1](http://www.shsforums.net/files/download/1209-bg1aeriev11rar/) by **Coutelier** *Adds Aerie as a non-companion NPC with a couple of small quests.* [Forum](https://forums.beamdog.com/discussion/38824/aerie-in-bg-ee-v1-1#latest) 
-* [Ascalon's Questpack](https://github.com/Gitjas/ACBre)(http://lynxlynx.info/ie/modhub.php?Gitjas/AC_QUEST&pkg=zip&pre) by **Ascalon, WhiteAgnus, Jastey)** *Eight quests.* [Forum](https://www.baldurs-gate.de/index.php?threads/ascalons-questpack-version-2-01-tester-gew%C3%BCnscht.44450/) [Site](https://baldurs-gate.de/index.php?resources/ascalons-questpack.4/) `EET`
+* [Ascalon's Questpack](http://lynxlynx.info/ie/modhub.php?Gitjas/AC_QUEST&pkg=zip&pre) by **Ascalon, WhiteAgnus, Jastey)** *Eight quests.* [Forum](https://www.baldurs-gate.de/index.php?threads/ascalons-questpack-version-2-01-tester-gew%C3%BCnscht.44450/) [Site](https://baldurs-gate.de/index.php?resources/ascalons-questpack.4/) `EET`
 ## Kits
 * [The Artisan's Kitpack*](https://lynxlynx.info/ie/modhub.php?ArtemiusI/The-Artisan-s-Kitpack&master) by **Artemius_I** *Fighter (Arcane Archer, Kensai, Vanguard (option for Khalid)), Ranger (Dark, Hunter, Rashemi Berserker (Minsc only)), Paladin (Divine champion (option for Ajantis, Keldorn, Sirene), Mystic Fire), Druid (Hivemaster, Thief (Assassin (option for Hexxat), Magekiller, Rogue Archer (option for Imoen)), Shaman (Warhorn Shaman), Sorcerer (Dragon Disciple, Pale Master))* [Forum](http://www.shsforums.net/topic/60112-the-artisans-kitpack-for-bgee-bg2ee-and-iwdee/) [Site](https://artisans-corner.com/the-artisans-kitpack/) `EET`
 ## Items
