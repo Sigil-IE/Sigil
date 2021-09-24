@@ -16,7 +16,7 @@ Check [projects](https://github.com/Sigil-IE/Sigil/projects) for the latest stat
 Check that the mod link is alive and match the template below, omitting alternative download locations or forums or sites as needed. Underscores are purely for ease of selection, Title Case is prescriptive. Write a one to two sentence description yourself if the one provided by the mod author is too long. The description should be light on adjectives and heavy on quantifiers. Place the mod in an appropriate game and category (may add to multiple, but try for as few as possible). The category may be carried over from BWS if in doubt.
  
 ```markdown
-* [Mod_Name](main_direct_download_link) [(Short_Name_For_Alternative_Download_Location)](alternative_direct_download link) by **Author_Name** *Description_of_the_mod* [Forum](link_to_the_mod's_forum_page) [Site](link_to_the_page_for_the_mod) `technical_information_such_as_EET_compatibility`
+* [Mod_Name](main_direct_download_link) [(Short_Name_For_Alternative_Download_Location)](alternative_direct_download link) by **Author_Name** *Description_of_the_mod* [Forum](link_to_the_discussion_of_the_mod) [Site](link_to_the_page_for_the_mod) `technical_information_such_as_EET_compatibility`
 ```
 
 # Baldur's Gate I Enhanced Edition and Siege of Dragonspear
