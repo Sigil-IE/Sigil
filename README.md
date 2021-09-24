@@ -25,7 +25,7 @@ Check that the mod link is alive and match the template below, omitting alternat
 ## Big Mods
 ## NPCs
 * [Ascalon's Breagar](http://lynxlynx.info/ie/modhub.php?Gitjas/ACBre&pkg=zip&pre) by **Ascalon, WhiteAgnus, Jastey** *Dwarven Smith companion that may be taken through the entire trilogy* [Forum](https://www.baldurs-gate.de/index.php?threads/ascalons-breagar.44520/) [Site](https://github.com/Gitjas/ACBre) `EET`
-* [Aura NPC](https://github.com/ArtemiusI/Aura_BG1/archive/master.zip) by **ArtemiusI** *Gnome thief Artificer that may be taken through BGEE and SoD* [Forum](https://forums.beamdog.com/discussion/65891/v1-3-aura-a-gnome-artificer-npc-for-bg-ee-sod/p1)(https://artisans-corner.com/aura-npc/) `EET`
+* [Aura NPC](https://github.com/ArtemiusI/Aura_BG1/archive/master.zip) by **ArtemiusI** *Gnome thief Artificer that may be taken through BGEE and SoD* [Forum](https://forums.beamdog.com/discussion/65891/v1-3-aura-a-gnome-artificer-npc-for-bg-ee-sod/p1) [Site](https://artisans-corner.com/aura-npc/) `EET`
 ## NPC extensions
 * [Ajantis BG1 Expansion](https://lynxlynx.info/ie/modhub.php?Gibberlings3/Ajantis_BG1_Expansion&pre&pkg=zip)[G3](https://www.gibberlings3.net/files/file/996-ajantis-bg-expansion/?do=download&r=4955&confirm=1&t=1&csrfKey=c22a99cfe596b49a35b8eb6946194ef7) by **Jastey** *Either adds or expands (if BG1NPC project is also installed) Ajantis' friendship and romance tracks.* [Forum](https://www.gibberlings3.net/forums/forum/199-ajantis/) [Site](https://www.gibberlings3.net/mods/npcs/ajantis/) `EET`
 ## Quests
