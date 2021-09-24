@@ -25,7 +25,7 @@ Check that the mod link is alive and match the template below, omitting alternat
 ## Big Mods
 ## NPCs
 * [Ascalon's Breagar](http://lynxlynx.info/ie/modhub.php?Gitjas/ACBre&pkg=zip&pre) by **Ascalon, WhiteAgnus, Jastey** *Dwarven Smith companion that may be taken through the entire trilogy* [Forum](https://www.baldurs-gate.de/index.php?threads/ascalons-breagar.44520/) [Site](https://github.com/Gitjas/ACBre) `EET`
-* [Aura NPC](https://github.com/ArtemiusI/Aura_BG1/archive/master.zip) by **ArtemiusI** *gnome thief Artificer that may be taken through BGEE and SoD* [Forum](https://forums.beamdog.com/discussion/65891/v1-3-aura-a-gnome-artificer-npc-for-bg-ee-sod/p1)(https://artisans-corner.com/aura-npc/) `EET`
+* [Aura NPC](https://github.com/ArtemiusI/Aura_BG1/archive/master.zip) by **ArtemiusI** *Gnome thief Artificer that may be taken through BGEE and SoD* [Forum](https://forums.beamdog.com/discussion/65891/v1-3-aura-a-gnome-artificer-npc-for-bg-ee-sod/p1)(https://artisans-corner.com/aura-npc/) `EET`
 ## NPC extensions
 * [Ajantis BG1 Expansion](https://lynxlynx.info/ie/modhub.php?Gibberlings3/Ajantis_BG1_Expansion&pre&pkg=zip)[G3](https://www.gibberlings3.net/files/file/996-ajantis-bg-expansion/?do=download&r=4955&confirm=1&t=1&csrfKey=c22a99cfe596b49a35b8eb6946194ef7) by **Jastey** *Either adds or expands (if BG1NPC project is also installed) Ajantis' friendship and romance tracks.* [Forum](https://www.gibberlings3.net/forums/forum/199-ajantis/) [Site](https://www.gibberlings3.net/mods/npcs/ajantis/) `EET`
 ## Quests
@@ -59,7 +59,7 @@ Check that the mod link is alive and match the template below, omitting alternat
 * [Awesome Soundsets Vol.1](http://www.shsforums.net/files/download/1102-awesome-soundsets-vol-1/) by **Smeagolheart** *BG NPC voices customised to fit the player* [Forum](http://www.shsforums.net/topic/57786-awesome-soundsets-vol-1/?hl=awesome+soundsets) [Site](http://www.shsforums.net/files/file/1102-awesome-soundsets-vol-1/) `EET`
 * [Awesome Soundsets Vol.2](http://www.shsforums.net/files/download/1106-awesome-soundsets-vol-2/) by **Smeagolheart** *IWD2 soundsets* [Forum](http://www.shsforums.net/topic/57812-awesome-soundsets-vol-2/?hl=awesome+soundsets) [Site]("http://www.shsforums.net/files/file/1106-awesome-soundsets-vol-2/) `EET` 
 * [Awesome Soundsets Vol.3](http://www.shsforums.net/files/download/1107-awesome-soundsets-vol-3/) by **Smeagolheart** *PST soundsets customised to fit the player* [Forum](http://www.shsforums.net/topic/57845-awesome-soundsets-vol-3/?hl=awesome+soundsets) [Site]("http://www.shsforums.net/files/file/1107-awesome-soundsets-vol-3/) `EET`
-* [Awesome Soundsets Vol.4](http://www.shsforums.net/files/download/1108-awesome-soundsets-vol-4/) by **Smeagolheart** *soundsets from The Monkey Island series customised to fit the player* [Forum](http://www.shsforums.net/topic/57846-awesome-soundsets-vol-4/?hl=awesome+soundsets)  [Site](http://www.shsforums.net/files/file/1108-awesome-soundsets-vol-4/) `EET`
+* [Awesome Soundsets Vol.4](http://www.shsforums.net/files/download/1108-awesome-soundsets-vol-4/) by **Smeagolheart** *Soundsets from The Monkey Island series customised to fit the player* [Forum](http://www.shsforums.net/topic/57846-awesome-soundsets-vol-4/?hl=awesome+soundsets)  [Site](http://www.shsforums.net/files/file/1108-awesome-soundsets-vol-4/) `EET`
 ## UI
 ## AI scripts
 ## Localisation
