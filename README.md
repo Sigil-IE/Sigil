@@ -9,7 +9,7 @@
 Steam or GOG users that want to install a WeiDU mod on anything that includes Siege of Dragonspear must first run [DLC Merger](https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game).
 
 ## Contributor
-Check [projects](https://github.com/Sigil-IE/Sigil/projects) for the latest status and any issues that are marked as help wanted. Collaborators welcome.
+Check [projects](https://github.com/Sigil-IE/Sigil/projects) for current status and any issues that are marked as help wanted. Collaborators welcome.
 
 **Adding a new mod**
 
