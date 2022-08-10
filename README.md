@@ -50,7 +50,7 @@ The following is mostly a downstream version of the [Mod Compatibility List for 
 * [Drizzt Saga](https://forums.beamdog.com/discussion/29969/drizzt-saga-v3-released-now-bgee-compatible/p1) *Adds Drizzt and his companions as joinable NPCs along with new quests, locations, items, and creatures.* `v3 or above (select default option during installation - despite the name it's compatible with both EET Worldmap and BP-BGT Worldmap)`
 * [The Stone of Askavar](https://forums.beamdog.com/discussion/42168/mod-the-stone-of-askavar-for-totsc-tutu-bgt-and-bg-ee/p1) *Adds quests, items, spells, creatures.* `v1.9 or above (select default option during installation - despite the name it's compatible with both EET Worldmap and BP-BGT Worldmap)`
 ### NPCs
-* [Drake NPC](https://github.com/ArtemiusI/Drake/releases) *Neutral Good Human Priest of Tyr that may be taken through BG I and SoD. Crossmod content.* `v0.1 BETA`
+* [Drake NPC](https://github.com/ArtemiusI/Drake/releases) *Neutral Good Human Priest of Tyr that may be taken through BG I and SoD. Crossmod content with Sirene, Aura, Verr'Sza, and White.* `v0.1 BETA`
 * [Margarita NPC](https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod/p1) *Lawful Neutral Halfling Stalker.* `v1.0 or above`
 * [Saradas Magic](https://forums.beamdog.com/discussion/23861/bg-ee-mod-saradas-magic-released/p1) *Archmage joinable NPC and 7 new arcane spells.* `v1.1 or above`
 * [Sharteel NPC mod for SoD](http://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/) *Adds Shar-Teel, including banters, to SoD.* `Pre-Release 1.1 or above`
