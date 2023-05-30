@@ -35,6 +35,8 @@ Check that the mod link is alive and match the template below, omitting alternat
 * [DLC Merger](https://github.com/Argent77/A7-DlcMerger/releases) *Required for Steam or GOG versions of BG EE and SoD to use mods.* [Forum](https://forums.beamdog.com/discussion/71305/mod-dlc-merger-merge-steam-gog-sod-dlc-or-custom-dlcs-with-the-main-game)
 * [EE Keeper](https://forums.beamdog.com/discussion/16497/ee-keeper-updated-to-v1-0-4) *Save game, creature, and character editor.*
 * [EEex](https://forums.beamdog.com/discussion/71798/mod-eeex-v0-9-7-alpha) *Executable extender allowing to mod hardcoded mechanics. The game must be started using InfinityLoader.exe/EEex.exe after installation rather than the regular executable. May be put before EET_end if there are mods that require it also before EET_end.* `v0.2.0-alpha or above (can be installed even after setup-EET_end)`
+* [Near Infinity](https://github.com/Argent77/NearInfinity/releases) *File browser and editor for the Infinity Engine.*
+* [Stutter Debug Tool](https://github.com/SpellholdStudios/Stutter_Debug_Tool/releases) *Helper for debugging scripts: patches script blocks, adding text of which script and script block number is running, shown in-game in the textbox and above the entity executing the script.*
 
 <!-- <details><summary> -->
 
